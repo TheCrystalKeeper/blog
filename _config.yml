@@ -1,5 +1,7 @@
-theme: "minima"
 title: "Arnon on Technology"
+author: "Arnon Erba"
+description: "Under Construction"
+theme: "minima"
 defaults:
   -
     scope:
