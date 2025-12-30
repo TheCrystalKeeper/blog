@@ -1,4 +1,4 @@
 ---
 title: "Index"
+layout: home
 ---
-# {{ page.title }}
