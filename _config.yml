@@ -1,10 +1,23 @@
 title: "Arnon on Technology"
+description: "The assorted musings of a professional sysadmin. Content and opinions expressed here are my own."
 author:
   name: "Arnon Erba"
   email: "arnon at arnon erba dot com"
-description: "The assorted musings of a professional sysadmin. Content and opinions expressed here are my own."
-remote_theme: "jekyll/minima"
+url: "https://blog.arnonerba.com"
 permalink: "/:year/:month/:title"
+plugins:
+  - "jekyll-feed"
+  - "jekyll-redirect-from"
+  - "jekyll-remote-theme"
+  - "jekyll-seo-tag"
+  - "jekyll-sitemap"
+remote_theme: "jekyll/minima"
+minima:
+  social_links:
+    - title: "Follow me on GitHub"
+      icon: "GitHub"
+      url: "https://github.com/arnonerba"
+  show_excerpts: "true"
 defaults:
   -
     scope:
