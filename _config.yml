@@ -2,6 +2,7 @@ title: "Arnon on Technology"
 author: "Arnon Erba"
 description: "The assorted thoughts of a career sysadmin."
 remote_theme: "jekyll/minima"
+permalink: "/:year/:month/:title"
 defaults:
   -
     scope:
