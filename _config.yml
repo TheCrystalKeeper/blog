@@ -1,9 +1,8 @@
-title: "Arnon on Technology"
-description: "The assorted musings of a professional sysadmin. Content and opinions expressed here are my own."
+title: "Jaron Erba"
+description: ""
 author:
-  name: "Arnon Erba"
-  email: "arnon at arnon erba dot com"
-url: "https://blog.arnonerba.com"
+  name: "Jaron Erba"
+url: "https://jaronerba.com"
 permalink: "/:year/:month/:title"
 plugins:
   - "jekyll-feed"
@@ -18,7 +17,7 @@ minima:
   social_links:
     - title: "Follow me on GitHub"
       icon: "github"
-      url: "https://github.com/arnonerba"
+      url: "https://github.com/TheCrystalKeeper"
   show_excerpts: "true"
 defaults:
   -
@@ -29,4 +28,4 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Arnon Erba"
+      author: "Jaron Erba"
